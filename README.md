@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://imgyukle.com/f/2022/10/20/nf3Fkx.png" align="center" style="width: 100%" />
+<img src="https://www.hizliresim.com/17pyd6i" align="center" style="width: 100%" />
 </div>  
   
 
