@@ -1,18 +1,49 @@
-# 💫 About Me:
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Anime Girl Page</title>
+	<style>
+		body {
+			background-color: #f2f2f2;
+			font-family: Arial, sans-serif;
+		}
 
+		h1 {
+			text-align: center;
+			color: #ff69b4;
+			margin-top: 50px;
+		}
 
+		.image-container {
+			display: flex;
+			justify-content: center;
+			align-items: center;
+			margin-top: 50px;
+		}
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]([https://instagram.com/jazz.tar.gz](https://www.instagram.com/_xp.denizdemxp_/)) 
+		img {
+			max-width: 100%;
+			height: auto;
+			border-radius: 50%;
+			box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+		}
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=denizdemxp99&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=denizdemxp99&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=denizdemxp99&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=denizdemxp99&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+		.description {
+			text-align: center;
+			color: #333;
+			margin-top: 30px;
+			font-size: 18px;
+			line-height: 1.5;
+		}
+	</style>
+</head>
+<body>
+	<h1>Anime Girl Page</h1>
+	<div class="image-container">
+		<img src="anime-girl.jpg" alt="Anime girl">
+	</div>
+	<div class="description">
+		<p>This is an example of an anime girl page created using HTML and CSS. Feel free to customize and make it your own!</p>
+	</div>
+</body>
+</html>
