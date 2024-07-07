@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-instagram : last.xp99<br>discord : denizdemxp99#4802
+instagram : xp99qq <br> discord : denizdemxp99#4802
 
 
 ## 🌐 Socials:
